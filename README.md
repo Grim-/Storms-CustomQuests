@@ -1,2 +1,1 @@
-# Storms-CustomQuests
- Custom Quests by StormCancer
+# Outward Mod Template
